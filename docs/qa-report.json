@@ -1,0 +1,829 @@
+{
+ "base": "http://localhost:4173",
+ "checked": 88,
+ "internalLinks": 51,
+ "deadLinks": [],
+ "problems": [
+  {
+   "viewport": "tablet",
+   "route": "/puppies",
+   "overflowPx": 1,
+   "title": "Available puppies | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "tablet",
+   "route": "/puppies?breed=poodle",
+   "overflowPx": 1,
+   "title": "Available puppies | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "tablet",
+   "route": "/puppies?origin=local",
+   "overflowPx": 1,
+   "title": "Available puppies | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  }
+ ],
+ "report": [
+  {
+   "viewport": "mobile",
+   "route": "/",
+   "overflowPx": 0,
+   "title": "TeddyPups U.A.E. — Premium teacup puppies in Dubai",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "mobile",
+   "route": "/puppies",
+   "overflowPx": 0,
+   "title": "Available puppies | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "mobile",
+   "route": "/puppies?breed=poodle",
+   "overflowPx": 0,
+   "title": "Available puppies | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "mobile",
+   "route": "/puppies?origin=local",
+   "overflowPx": 0,
+   "title": "Available puppies | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "mobile",
+   "route": "/gone-home",
+   "overflowPx": 0,
+   "title": "Gone home | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "mobile",
+   "route": "/happy-families",
+   "overflowPx": 0,
+   "title": "Happy families | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "mobile",
+   "route": "/how-it-works",
+   "overflowPx": 0,
+   "title": "How it works | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "mobile",
+   "route": "/faq",
+   "overflowPx": 0,
+   "title": "Questions & answers | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "mobile",
+   "route": "/contact",
+   "overflowPx": 0,
+   "title": "Visit & contact | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "mobile",
+   "route": "/this-page-does-not-exist",
+   "overflowPx": 0,
+   "title": "Page not found | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "mobile",
+   "route": "/puppies/maltipoo-max-male",
+   "overflowPx": 0,
+   "title": "Max, Maltipoo puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "mobile",
+   "route": "/puppies/pomeranian-ace-boy",
+   "overflowPx": 0,
+   "title": "Ace, Pomeranian puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "tablet",
+   "route": "/",
+   "overflowPx": 0,
+   "title": "TeddyPups U.A.E. — Premium teacup puppies in Dubai",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "tablet",
+   "route": "/puppies",
+   "overflowPx": 1,
+   "title": "Available puppies | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "tablet",
+   "route": "/puppies?breed=poodle",
+   "overflowPx": 1,
+   "title": "Available puppies | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "tablet",
+   "route": "/puppies?origin=local",
+   "overflowPx": 1,
+   "title": "Available puppies | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "tablet",
+   "route": "/gone-home",
+   "overflowPx": 0,
+   "title": "Gone home | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "tablet",
+   "route": "/happy-families",
+   "overflowPx": 0,
+   "title": "Happy families | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "tablet",
+   "route": "/how-it-works",
+   "overflowPx": 0,
+   "title": "How it works | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "tablet",
+   "route": "/faq",
+   "overflowPx": 0,
+   "title": "Questions & answers | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "tablet",
+   "route": "/contact",
+   "overflowPx": 0,
+   "title": "Visit & contact | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "tablet",
+   "route": "/this-page-does-not-exist",
+   "overflowPx": 0,
+   "title": "Page not found | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "tablet",
+   "route": "/puppies/maltipoo-max-male",
+   "overflowPx": 0,
+   "title": "Max, Maltipoo puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "tablet",
+   "route": "/puppies/pomeranian-ace-boy",
+   "overflowPx": 0,
+   "title": "Ace, Pomeranian puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/",
+   "overflowPx": 0,
+   "title": "TeddyPups U.A.E. — Premium teacup puppies in Dubai",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies",
+   "overflowPx": 0,
+   "title": "Available puppies | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies?breed=poodle",
+   "overflowPx": 0,
+   "title": "Available puppies | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies?origin=local",
+   "overflowPx": 0,
+   "title": "Available puppies | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/gone-home",
+   "overflowPx": 0,
+   "title": "Gone home | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/happy-families",
+   "overflowPx": 0,
+   "title": "Happy families | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/how-it-works",
+   "overflowPx": 0,
+   "title": "How it works | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/faq",
+   "overflowPx": 0,
+   "title": "Questions & answers | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/contact",
+   "overflowPx": 0,
+   "title": "Visit & contact | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/this-page-does-not-exist",
+   "overflowPx": 0,
+   "title": "Page not found | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/maltipoo-max-male",
+   "overflowPx": 0,
+   "title": "Max, Maltipoo puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/korean-teacup-maltipoo-female",
+   "overflowPx": 0,
+   "title": "Korean Teacup Maltipoo puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/korean-teacup-poodle-female",
+   "overflowPx": 0,
+   "title": "Korean Teacup Poodle puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/maltipoo-cavapoo-male",
+   "overflowPx": 0,
+   "title": "Maltipoo & Cavapoo puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/toy-poodle-male-female",
+   "overflowPx": 0,
+   "title": "Toy Poodle puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/maltipoo-female-2",
+   "overflowPx": 0,
+   "title": "Maltipoo puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/pomeranian-female",
+   "overflowPx": 0,
+   "title": "Pomeranian puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/copper-male",
+   "overflowPx": 0,
+   "title": "Copper, Cavapoo puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/shitzu-female",
+   "overflowPx": 0,
+   "title": "Shih Tzu puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/shitzu-male",
+   "overflowPx": 0,
+   "title": "Shih Tzu puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/maltipoo-female-1",
+   "overflowPx": 0,
+   "title": "Maltipoo puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/maltipoo-female",
+   "overflowPx": 0,
+   "title": "Maltipoo puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/korean-teacup-pomeranian-1",
+   "overflowPx": 0,
+   "title": "Korean Teacup Pomeranian puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/korean-teacup-pomeranian",
+   "overflowPx": 0,
+   "title": "Korean Teacup Pomeranian puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/korean-teacup-pomeranian-male",
+   "overflowPx": 0,
+   "title": "Korean Teacup Pomeranian puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/pomeranian-ace-boy",
+   "overflowPx": 0,
+   "title": "Ace, Pomeranian puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/poodle-leo-male",
+   "overflowPx": 0,
+   "title": "Leo, Poodle puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/maltipoo-mia-girl",
+   "overflowPx": 0,
+   "title": "Mia, Maltipoo puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/maltipoo-sadie-girl",
+   "overflowPx": 0,
+   "title": "Sadie, Maltipoo puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/blue-marle-pomeranian",
+   "overflowPx": 0,
+   "title": "Pomeranian puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/pomsky-ollie-boy",
+   "overflowPx": 0,
+   "title": "Ollie, Pomsky puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/maltipoo-bruno-boy",
+   "overflowPx": 0,
+   "title": "Bruno, Maltipoo puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/maltese-buddy-male",
+   "overflowPx": 0,
+   "title": "Buddy, Maltese puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/maltese-charlie-male",
+   "overflowPx": 0,
+   "title": "Charlie, Maltese puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/pomeranian-daisy-girl",
+   "overflowPx": 0,
+   "title": "Daisy, Pomeranian puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/pomeranian-bella-female",
+   "overflowPx": 0,
+   "title": "Bella, Pomeranian puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/poodle-teddy-male",
+   "overflowPx": 0,
+   "title": "Teddy, Poodle puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/poodle-molly-female",
+   "overflowPx": 0,
+   "title": "Molly, Poodle puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/pomski-coco-girl",
+   "overflowPx": 0,
+   "title": "Coco, Pomsky puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/pomsky-rosie-girl",
+   "overflowPx": 0,
+   "title": "Rosie, Pomsky puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/pomeranian-leo-boy",
+   "overflowPx": 0,
+   "title": "Leo, Pomeranian puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/poodle-molly-girl",
+   "overflowPx": 0,
+   "title": "Molly, Poodle puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/poodle-rocky-boy",
+   "overflowPx": 0,
+   "title": "Rocky, Poodle puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/maltipoo-sophie-girl",
+   "overflowPx": 0,
+   "title": "Sophie, Maltipoo puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/maltipoo-lola-girl",
+   "overflowPx": 0,
+   "title": "Lola, Maltipoo puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/pomeranian-rex-boy",
+   "overflowPx": 0,
+   "title": "Rex, Pomeranian puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/pomsky-finn-male",
+   "overflowPx": 0,
+   "title": "Finn, Pomsky puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/maltipoo-zoe-girl",
+   "overflowPx": 0,
+   "title": "Zoe, Maltipoo puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/pomeranian-mimi-girl",
+   "overflowPx": 0,
+   "title": "Mimi, Pomeranian puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/bichon-bailey-boy",
+   "overflowPx": 0,
+   "title": "Bailey, Bichon puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/puppy",
+   "overflowPx": 0,
+   "title": "Maltipoo puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "desktop",
+   "route": "/puppies/maltipo",
+   "overflowPx": 0,
+   "title": "Poodle puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "large",
+   "route": "/",
+   "overflowPx": 0,
+   "title": "TeddyPups U.A.E. — Premium teacup puppies in Dubai",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "large",
+   "route": "/puppies",
+   "overflowPx": 0,
+   "title": "Available puppies | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "large",
+   "route": "/puppies?breed=poodle",
+   "overflowPx": 0,
+   "title": "Available puppies | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "large",
+   "route": "/puppies?origin=local",
+   "overflowPx": 0,
+   "title": "Available puppies | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "large",
+   "route": "/gone-home",
+   "overflowPx": 0,
+   "title": "Gone home | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "large",
+   "route": "/happy-families",
+   "overflowPx": 0,
+   "title": "Happy families | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "large",
+   "route": "/how-it-works",
+   "overflowPx": 0,
+   "title": "How it works | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "large",
+   "route": "/faq",
+   "overflowPx": 0,
+   "title": "Questions & answers | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "large",
+   "route": "/contact",
+   "overflowPx": 0,
+   "title": "Visit & contact | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "large",
+   "route": "/this-page-does-not-exist",
+   "overflowPx": 0,
+   "title": "Page not found | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "large",
+   "route": "/puppies/maltipoo-max-male",
+   "overflowPx": 0,
+   "title": "Max, Maltipoo puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  },
+  {
+   "viewport": "large",
+   "route": "/puppies/pomeranian-ace-boy",
+   "overflowPx": 0,
+   "title": "Ace, Pomeranian puppy | TeddyPups U.A.E.",
+   "h1Count": 1,
+   "emptyLinks": 0,
+   "errors": []
+  }
+ ]
+}

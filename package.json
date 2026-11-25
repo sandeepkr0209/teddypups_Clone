@@ -1,0 +1,39 @@
+{
+  "name": "teddypups-clone",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "prebuild": "node scripts/fetch-assets.mjs",
+    "build": "vite build",
+    "build:offline": "vite build",
+    "preview": "vite preview",
+    "lint": "oxlint src api scripts",
+    "data": "node scripts/build-data.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "@fontsource-variable/figtree": "^5.3.0",
+    "@fontsource-variable/fraunces": "^5.3.0",
+    "@fontsource-variable/shantell-sans": "^5.3.0",
+    "framer-motion": "^14.14.0",
+    "lucide-react": "^1.80.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-router-dom": "^7.18.7"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.5",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "oxlint": "^1.90.0",
+    "playwright-core": "^1.65.1",
+    "tailwindcss": "^4.3.5",
+    "vite": "^8.3.6"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

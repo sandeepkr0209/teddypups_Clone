@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+.env.local
+.vercel
+public/img/
+*.log
+.DS_Store
+qa/
