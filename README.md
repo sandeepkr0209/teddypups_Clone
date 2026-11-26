@@ -4,8 +4,8 @@ A complete, responsive, multi-page React clone of **https://puppy.instabizweb.co
 
 | | |
 |---|---|
-| **Live site** | _DEPLOY_URL_ |
-| **Repository** | _REPO_URL_ |
+| **Live site** | https://teddypups-clone-rust.vercel.app/ |
+| **Repository** | https://github.com/sandeepkr0209/teddypups_Clone |
 | **Reference** | https://puppy.instabizweb.com/ |
 
 ---
